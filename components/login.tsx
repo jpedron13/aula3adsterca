@@ -1,9 +1,9 @@
 import {
-    View, 
-    Text, 
-    TextInput, 
+    StyleSheet,
+    Text,
+    TextInput,
     TouchableOpacity,
-    StyleSheet
+    View
 } from 'react-native';
 
 export default function Login(){
